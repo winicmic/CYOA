@@ -1,0 +1,27 @@
+body{
+background-color: seagreen;
+}
+
+h1{
+  text-align: center;
+  color: skyblue;
+  font-family: 'Alatsi', sans-serif;
+}
+
+h3{
+  text-align: center;
+  color: skyblue;
+}
+
+h6{
+text-align: center;
+}
+
+p{
+  text-align: center;
+  color: skyblue;
+}
+
+h7{
+  color: skyblue;
+}
